@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+header {
+  background-color: #FAF3E8;
+  padding: 15px;
+  height: 75px;
+}
+header ul {
+  float: right;
+  color: #373738;
+  margin-bottom: 0!important;
+  display: flex;
+  align-items: center;
+}
+header li {
+  display: inline-block;
+  padding: 0px 5px;
+  font: Arial bold;
+  color: #1D125E;
+}
+header p {
+  display: inline-block;
+  color: #FAF3E8;
+}
+
+h2 {
+  background-color: #822929;
+  height: 100px;
+  color: #FAF3E8;
+}
