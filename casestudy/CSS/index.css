@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+}
+header {
+  background-color: #FAF3E8;
+  padding: 15px;
+  height: 75px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header ul {
+  float: right;
+  color: #373738;
+  margin-bottom: 0!important;
+  display: flex;
+  align-items: center;
+}
+header li {
+  display: inline-block;
+  padding: 0px 5px;
+  font: Arial bold;
+  color: #1D125E;
+}
+header p {
+  display: inline-block;
+  color: #FAF3E8;
+}
+
+h2 {
+  background-color: #822929;
+  color: #FAF3E8;
+}
+.introTitle {
+  color: #FAF3E8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #822929;
+  height: 200px;
+}
+.researchTitle {
+  color: #FAF3E8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #822929;
+  height: 200px;
+}
+.problemTitle {
+  color: #FAF3E8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #822929;
+  height: 200px;
+}
+.designsTitle {
+  color: #FAF3E8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #822929;
+  height: 200px;
+}
+.solutionTitle {
+  color: #FAF3E8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #822929;
+  height: 200px;
+}
+footer {
+  background-color: #FAF3E8;
+  padding: 15px;
+  height: 75px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.TRSARjumbo {
+  padding: 100px 0px;
+}
+.TRSARinfo {
+  font-size: 24px;
+}
+.bodyText {
+  font-size: 16px;
+}
+.bodyImages {
+  width: 100%;
+  height: auto;
+}
+.lastImages {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
